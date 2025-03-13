@@ -1,6 +1,4 @@
-[![architect.png](https://i.postimg.cc/vT3RXkKx/architect.png)](https://postimg.cc/xNJF1xn9)
-
-
+[![image.png](https://i.postimg.cc/XvfQWFgn/image.png)](https://postimg.cc/Z9qrFWgQ)
 # Saas landing page 
 
 ## Tecnologías utilizadas
